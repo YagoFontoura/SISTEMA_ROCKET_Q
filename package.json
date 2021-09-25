@@ -1,0 +1,29 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "init-db": "node src/db/init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YagoFontoura/rocketq.git"
+  },
+  "author": "Yago Barbosa Fontoura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YagoFontoura/rocketq/issues"
+  },
+  "homepage": "https://github.com/YagoFontoura/rocketq#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
