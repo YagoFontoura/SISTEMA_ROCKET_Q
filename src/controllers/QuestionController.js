@@ -23,11 +23,7 @@ module.exports = {
         db.run(` INSERT into questions (
             title,
             room
-            )VALUES(
-                "${question}",
-                "${roomId}",
-                0
-            )`)
+            )VALUES( "${question}", "${roomId}")`)
 
             res.redirect(`/room/${roomId}`)
     }
