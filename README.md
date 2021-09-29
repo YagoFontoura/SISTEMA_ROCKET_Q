@@ -30,4 +30,4 @@ $ npm start  // To start the project
 
 <p>technologies used: HTML - CSS - JAVASCRIPT - NODEJS - EJS - SQLITE</p>
 
-<p>Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my Linkedin<p>
+<p>Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my <a href="https://www.linkedin.com/in/yago-fontoura/">Linkedin</a><p>
