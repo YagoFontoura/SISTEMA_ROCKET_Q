@@ -1,6 +1,6 @@
 <H1>RocketQ</H1>
 <img src="public/images/rocketq.gif" alt="Gif RocketQ"/>
-<p>RocketQ é um projeto de site para perguntas anônimas, o projeto funciona além do FrontEnd e BackEnd, onde você pode criar sua sala que tem seu próprio ID, para que você possa enviar para amigos e conhecidos, tudo sendo salvo em um banco de dados.
+<p>RocketQ é um projeto de site para perguntas anônimas, o projeto funciona além do FrontEnd e BackEnd, onde você pode criar sua sala que tem seu próprio ID, para que você possa enviar para amigos e conhecidos, tudo sendo salvo em um banco de dados.</p>
 
 </br>
 </br>
@@ -8,7 +8,7 @@
 </br>
 
 <img src="public/images/rocket2.gif" alt="Gif RocketQ"/>
-Ifoi construído em HTML, CSS e JS,
+<p>foi construído em HTML, CSS e JS,
 sendo utilizado o EJS para renderizar o FrontEnd e o NodeJS no BackEnd, o banco de dados foi utilizado o SQLite.</p>
 
 </br>
