@@ -1,6 +1,6 @@
 <H1>RocketQ</H1>
 <img src="public/images/rocketq.gif" alt="Gif RocketQ"/>
-<p>RocketQ is a website project for anonymous questions, the project works apart from FrontEnd and BackEnd, where you can create your room that has its own ID, so you can send it to friends and acquaintances, everything being saved in a database.
+<p>RocketQ é um projeto de site para perguntas anônimas, o projeto funciona além do FrontEnd e BackEnd, onde você pode criar sua sala que tem seu próprio ID, para que você possa enviar para amigos e conhecidos, tudo sendo salvo em um banco de dados.
 
 </br>
 </br>
@@ -8,26 +8,26 @@
 </br>
 
 <img src="public/images/rocket2.gif" alt="Gif RocketQ"/>
-It was built in HTML, CSS and JS,
-being used the EJS to render the FrontEnd and NodeJS in the BackEnd, the database was used the SQLite.</p>
+Ifoi construído em HTML, CSS e JS,
+sendo utilizado o EJS para renderizar o FrontEnd e o NodeJS no BackEnd, o banco de dados foi utilizado o SQLite.</p>
 
 </br>
 </br>
 </br>
 
 ```
-# clone the repository
+# clonar o repositório
 
 $ git clone https://github.com/YagoFontoura/rocketq.git
 
-$ npm install //to install all dependencies
+$ npm install //para instalar todas as dependências
 
-$ npm start  // To start the project
+$ npm start  // Para iniciar o projeto
 
-#Access at port: 3000
+#Acesse a porta: 3000
 # localhost:3000
 ```
 
-<p>technologies used: HTML - CSS - JAVASCRIPT - NODEJS - EJS - SQLITE</p>
+<p>Tecnologias usadas: HTML - CSS - JAVASCRIPT - NODEJS - EJS - SQLITE</p>
 
-<p>Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my <a href="https://www.linkedin.com/in/yago-fontoura/">Linkedin</a><p>
+<p>Feito com 💜 por Yago B. Fontoura e RocketSeat 👋🏼 Veja meu <a href="https://www.linkedin.com/in/yago-fontoura/">Linkedin</a><p>
